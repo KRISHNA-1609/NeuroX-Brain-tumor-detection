@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+torch
+torchvision
+segmentation-models-pytorch
+opencv-python-headless
+numpy<2.0.0
+grad-cam
